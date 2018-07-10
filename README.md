@@ -8,3 +8,9 @@ The returned image may then be shared or saved.
 
 -Additionally the ButterKnife and Timber libraries have been used.
 
+SCREENSHOTS
+
+https://github.com/kraftholo/Emojify/blob/master/JPEG_20180710_132529.jpg
+https://github.com/kraftholo/Emojify/blob/master/JPEG_20180710_132646.jpg
+https://github.com/kraftholo/Emojify/blob/master/Screenshot_20180710-142818.jpg
+https://github.com/kraftholo/Emojify/blob/master/Screenshot_20180710-142838.jpg
